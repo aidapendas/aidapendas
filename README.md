@@ -1,12 +1,12 @@
 ### Hey, I'm Aida 👋
 
-I'm a data scientist based in the UK, and I'm passionate about understanding data, as well as computational neuroscience and computational psychiatry.
+I'm a Data Scientist based in the UK, and I'm passionate about understanding data, as well as Computational Neuroscience and Computational Psychiatry.
 
 ## 📦 Toolbox
 
 Coding: Python SQL R Matlab
 
-Visualisation: Plot.ly Seaborn Heroku Spotfire
+Visualization: Plot.ly Seaborn Heroku Spotfire
 
 Version Control: Git GitLab 
 
