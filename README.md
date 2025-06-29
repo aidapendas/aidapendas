@@ -16,7 +16,7 @@ Whether it’s analyzing financial data, building machine learning models, or te
 
 - **Languages**: Python 🐍, R 📊, MATLAB 🧠, VB.NET 🖥️, SQL 🛢️, HTML & CSS 🎨.
 - **Special Powers**:
-  - Creating interactive dashboards that make data *sing* 🎼 (hello, Plot.ly!).
+  - Creating interactive dashboards that make data *sing* 🎼 (hello, Plot.ly and Tableau!).
   - Decoding complex data for actionable insights 📈.
   - Leading teams like a pro 🎯.
 - **Tech Frameworks**: Agile/SCRUM (I thrive in organized chaos).
